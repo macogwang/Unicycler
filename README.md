@@ -1,3 +1,5 @@
+I am Martin Ogwang Owallah, PhD student at Jomo Kenyatta University of agriculture nd technology. My area of specializtion is infectious diseases and vaccinology with interest in Mycobacterium tuberculosis.
+
 <p align="center"><img src="misc/logo.png" alt="Unicycler" width="600"></p>
 
 Unicycler is an assembly pipeline for bacterial genomes. It can assemble [Illumina](http://www.illumina.com/)-only read sets where it functions as a [SPAdes](http://cab.spbu.ru/software/spades/)-optimiser. It can also assembly long-read-only sets ([PacBio](http://www.pacb.com/) or [Nanopore](https://nanoporetech.com/)) where it runs a [miniasm](https://github.com/lh3/miniasm)+[Racon](https://github.com/isovic/racon) pipeline. For the best possible assemblies, give it both Illumina reads _and_ long reads, and it will conduct a hybrid assembly.
